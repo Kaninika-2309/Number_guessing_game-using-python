@@ -6,7 +6,7 @@ print("1. Easy (1–50)")
 print("2. Medium (1–100)")
 print("3. Hard (1–500)")
 
-# Choose difficulty
+# Choosing the difficulty level now
 level = input("Enter 1, 2, or 3: ")
 
 if level == "1":
